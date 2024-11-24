@@ -10,7 +10,7 @@ This script uses the `yt_dlp` library to download YouTube videos, automatically 
 1. **Clone the repository and install dependencies**
    
    ```bash
-   git clone https://github.com/Guilherme-Rigobello/yt-dlp-downloader.git
+   git clone https://github.com/Guilherme-Rigobello/video-installer.git
    
 2. **Install the yt_dlp library**  
    ```bash
