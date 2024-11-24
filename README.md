@@ -19,5 +19,5 @@ This script uses the `yt_dlp` library to download YouTube videos, automatically 
 ### 🚀 How to Use
 3. Run the script in the terminal:
 
-```bash
-python baixar-video.py
+   ```bash
+   python baixar-video.py
